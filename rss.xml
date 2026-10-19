@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>US Maternity &amp; Paternity Leave Pay Calculator | FMLA &amp; State PFL Estimator</title>
+  <title>Paid Family Leave Calculator</title>
   <link>https://us-paid-family-leave.enjoy-onepage.com/</link>
-  <description>Estimate your weekly parental leave benefits under state Paid Family Leave (PFL) programs (CA, NY, WA, NJ, MA) and FMLA unpaid protections.</description>
+  <description>Calculate state paid family leave weekly benefits, duration, and total payouts.</description>
   <language>en-us</language>
   <atom:link href="https://us-paid-family-leave.enjoy-onepage.com/rss.xml" rel="self" type="application/rss+xml" />
-  <lastBuildDate>Tue, 29 Sep 2026 06:02:31 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 02:34:03 +0000</lastBuildDate>
+  <item>
+    <title>Disclaimer | Paid Family Leave Calculator</title>
+    <link>https://us-paid-family-leave.enjoy-onepage.com/disclaimer.html</link>
+    <guid isPermaLink="true">https://us-paid-family-leave.enjoy-onepage.com/disclaimer.html</guid>
+    <description>Disclaimer for the Paid Family Leave Calculator.</description>
+    <pubDate>Mon, 19 Oct 2026 02:34:03 +0000</pubDate>
+  </item>
+  <item>
+    <title>Privacy Policy | Paid Family Leave Calculator</title>
+    <link>https://us-paid-family-leave.enjoy-onepage.com/privacy.html</link>
+    <guid isPermaLink="true">https://us-paid-family-leave.enjoy-onepage.com/privacy.html</guid>
+    <description>Privacy Policy for the Paid Family Leave Calculator.</description>
+    <pubDate>Mon, 19 Oct 2026 02:34:03 +0000</pubDate>
+  </item>
+  <item>
+    <title>Terms of Service | Paid Family Leave Calculator</title>
+    <link>https://us-paid-family-leave.enjoy-onepage.com/terms.html</link>
+    <guid isPermaLink="true">https://us-paid-family-leave.enjoy-onepage.com/terms.html</guid>
+    <description>Terms of Service for the Paid Family Leave Calculator.</description>
+    <pubDate>Mon, 19 Oct 2026 02:34:03 +0000</pubDate>
+  </item>
 </channel>
 </rss>
