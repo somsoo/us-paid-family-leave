@@ -496,7 +496,7 @@
   function calculate() {
     const st = stateProgramEl.value || 'CA';
     const cfg = PFL_CONFIGS[st] || PFL_CONFIGS.CA;
-    const salary = Math.max(0, parseFloat(annualSalaryEl.value) || 0);
+    const salary = Math.max(0, Math.max(0, parseFloat(annualSalaryEl.value) || 0));
     const normalWeekly = salary / 52;
     const weeks = Math.min(cfg.maxWeeks, Math.max(1, parseInt(leaveWeeksEl.value, 10) || 1));
 
